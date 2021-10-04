@@ -222,8 +222,8 @@
     margin-right: 10px;
   }
   .landing .bullets li.active{
-    background-color: var(--main-color);
-    border-color: var(--main-color);
+    background-color: var(--main-color) !important;
+    border-color: var(--main-color) !important;
   }
   /* End landing */
   /* Start component */
